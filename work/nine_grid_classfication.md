@@ -17,8 +17,8 @@
 九个格子具体如下：
 
  事件类 语义类 自我类
-过去 History（发展史） 已完成的行动里程碑 Handbook（经验手册） 已验证的知识沉淀 Report（自我评估） 已定论的身份总结
-现在 Journal（工作日志） 正在进行的行动记录 Profile（工作档案） 正在构建的知识库 Essay（自我探索） 正在形成的身份认知
+过去 History（发展史） 已完成的行动里程碑 Handbook（gongzuo手册） 已验证的知识沉淀 Report（gongzuobaogao） 已定论的身份总结
+现在 Journal（工作日志） 正在进行的行动记录 Profile（工作档案） 正在构建的知识库 Essay（gongzuozhaji） 正在形成的身份认知
 未来 Roadmap（路线图） 将要履行的行动承诺 Specification（技术规范） 将要遵循的知识标准 Bylaws（组织章程） 将要遵守的身份契约
 
 核心洞察：
