@@ -18,9 +18,11 @@
 
 | | 事件类 | 语义类 | 自我类 |
 |------|--------|--------|--------|
-| **过去** | History（发展史） | Handbook（工作手册） | Report（工作报告） |
+| **过去** | Archive（工作归档） | Handbook（工作手册） | History（发展历程） |
 | **现在** | Journal（工作日志） | Profile（工作档案） | Essay（工作札记） |
-| **未来** | Roadmap（路线图） | Specification（技术规范） | Bylaws（组织章程） |
+| **未来** | Roadmap（路线图） | Specification（工程标准） | Bylaws（工作章程） |
+
+> 注：现在三组（Journal、Profile、Essay）及过去事件/自我类（Archive、History）已确定，其他格子待探索。
 
 ## 应用场景
 
