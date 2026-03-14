@@ -20,9 +20,9 @@
 
 | | 事件类 | 语义类 | 自我类 |
 |------|--------|--------|--------|
-| **过去** | Archive（工作归档） |  | History（发展历程） |
-| **现在** | Journal（工作日志） |  | Brochure（宣传册） |
-| **未来** | Profile（工作档案） |  | Roadmap（发展蓝图） |
+| **过去** | Archive（工作归档） | usercase（工作案例） | History（发展历程） |
+| **现在** | Journal（工作日志） | Report（工作报告） | Brochure（宣传册） |
+| **未来** | Profile（工作档案） | Resolution（决议） | Roadmap（发展蓝图） |
 
 
 ## 程序型记忆
