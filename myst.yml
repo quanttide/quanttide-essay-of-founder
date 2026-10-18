@@ -11,6 +11,9 @@ project:
     - title: 小说
       children:
         - file: fiction/mutual-secret-crush.md
+    - title: 写作
+      children:
+        - file: write/from-reality-to-fiction.md
 site:
   template: book-theme
   options:

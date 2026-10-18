@@ -12,5 +12,6 @@
 
 ### 新增
 
+- `write/from-reality-to-fiction.md`：从现实到虚构——整合手册 `write/` 三篇（动机、方法、卡点）为一篇，按「现实派下任务、素材进虚构、卡点在门口、故事回现实」重排
 - 初始化论文仓库：`README.md`、`index.md`（入口，待补充）、`myst.yml`
 - `fiction/mutual-secret-crush.md`：双向暗恋文的叙事方法（常见套路、反思、我们的尝试及优缺点），结论泛化，不依赖具体样本
