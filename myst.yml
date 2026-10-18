@@ -1,8 +1,8 @@
 version: 1
 project:
-  title: 量潮创始人随笔
-  description: 量潮创始人随笔 - 观点与思考的成篇文章
-  keywords: [量潮创始人, 随笔]
+  title: 量潮创始人论文
+  description: 量潮创始人论文 - 研究性的成篇文章
+  keywords: [量潮创始人, 论文]
   authors:
     - name: 量潮科技
   license: CC-BY-4.0
