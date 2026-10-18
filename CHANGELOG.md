@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### 变更
+
+- `fiction/mutual-secret-crush.md` 与 `write/from-reality-to-fiction.md` 互引：补三条线的心理问法与结构答法对照、情绪与时间的换算、读者账与自己账的区分，后者落定立意引文
+
 ### 新增
 
 - `write/from-reality-to-fiction.md`：从现实到虚构——整合手册 `write/` 三篇（动机、方法、卡点）为一篇，按「现实派下任务、素材进虚构、卡点在门口、故事回现实」重排
