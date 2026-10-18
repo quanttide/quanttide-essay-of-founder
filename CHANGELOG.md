@@ -13,4 +13,4 @@
 ### 新增
 
 - 初始化论文仓库：`README.md`、`index.md`（入口，待补充）、`myst.yml`
-- `fiction/mutual-secret-crush.md`：双向暗恋文的叙事方法（常见套路、反思、我们的尝试及优缺点），补方法与边界说明
+- `fiction/mutual-secret-crush.md`：双向暗恋文的叙事方法（常见套路、反思、我们的尝试及优缺点），结论泛化，不依赖具体样本
