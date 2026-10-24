@@ -18,6 +18,7 @@ project:
       children:
         - file: work/task-blueprint-vs-workflow.md
         - file: work/artifact-contract.md
+        - file: work/two-ledgers-of-ai-collaboration.md
 site:
   template: book-theme
   options:
