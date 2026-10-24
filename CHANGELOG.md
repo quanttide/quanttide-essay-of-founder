@@ -13,6 +13,7 @@
 ### 变更
 
 - `fiction/mutual-secret-crush.md` 与 `write/from-reality-to-fiction.md` 互引：补三条线的心理问法与结构答法对照、情绪与时间的换算、读者账与自己账的区分，后者落定立意引文
+- `language/context.md`：「章程的发现」按降级后的条文改写——章程只留第三条「不跨语境借词」，财务与计算机术语的词表移入案例集
 
 ### 新增
 
