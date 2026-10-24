@@ -18,7 +18,9 @@ project:
       children:
         - file: work/task-blueprint-vs-workflow.md
         - file: work/artifact-contract.md
-        - file: work/human-ai-collaboration.md
+    - title: 元
+      children:
+        - file: meta/human-ai-collaboration.md
 site:
   template: book-theme
   options:
