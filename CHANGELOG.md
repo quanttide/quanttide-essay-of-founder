@@ -12,7 +12,7 @@
 
 ### 变更
 
-- `agent/agent-harness.md`：补 YAML 前置元数据 `author_type: agent`、`status: pending`（待验证），与 `docs` 契约的三档状态对齐
+- `agent/agent-harness.md`：补 YAML 前置元数据 `status: pending`（待验证），署名用 `authors` 块并标 `type: agent`，与 `docs` 契约对齐
 - `agent/agent-harness.md`：全文重写为论文体——去第二人称与警句式短段，定义先行、论证成段、数据入文；第七节保留，缩写数据与来源写清
 - `agent/agent-harness.md`：补第七节「系统开始看自己」——闸门、体检、巡检合起来让系统第一次有了可查的记录；巡检数据说明看见不等于自我纠正；结论顺延为第八节
 - `fiction/mutual-secret-crush.md` 与 `write/from-reality-to-fiction.md` 互引：补三条线的心理问法与结构答法对照、情绪与时间的换算、读者账与自己账的区分，后者落定立意引文
