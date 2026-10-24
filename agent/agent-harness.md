@@ -1,6 +1,8 @@
 ---
-author_type: agent
 status: pending
+authors:
+  - name: DeepSeek V4.1 Flash
+    type: agent
 ---
 
 # Agent Harness：把约束装到验收一端
