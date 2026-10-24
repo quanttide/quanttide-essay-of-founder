@@ -11,3 +11,4 @@
 - [work/task-blueprint-vs-workflow.md](./work/task-blueprint-vs-workflow.md)：任务蓝图与工作流——两种定义的终点。
 - [work/artifact-contract.md](./work/artifact-contract.md)：产物契约——把合格线写成可判定的约束。
 - [meta/human-ai-collaboration.md](./meta/human-ai-collaboration.md)：人机协作——从生产转向治理。
+- [language/context.md](./language/context.md)：语境——词为什么站错位置。
