@@ -1,6 +1,6 @@
 ---
 author: agent
-status: 待验证
+status: pending
 ---
 
 # Agent Harness：把约束装到验收一端
