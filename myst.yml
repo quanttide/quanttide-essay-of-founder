@@ -20,12 +20,12 @@ project:
         - file: work/artifact-contract.md
     - title: 元
       children:
-        - file: meta/human-ai-collaboration.md
         - file: meta/category-shifts.md
         - file: meta/two-views.md
     - title: 智能体
       children:
         - file: agent/agent-harness.md
+        - file: agent/human-ai-collaboration.md
     - title: 语言
       children:
         - file: language/context.md
