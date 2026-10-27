@@ -29,6 +29,9 @@ project:
     - title: 语言
       children:
         - file: language/context.md
+    - title: 生活
+      children:
+        - file: life/pressure.md
 site:
   template: book-theme
   options:

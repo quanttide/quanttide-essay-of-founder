@@ -15,3 +15,4 @@
 - [meta/two-views.md](./meta/two-views.md)：同一组模型，两种读法——本体论与范畴论的分工。
 - [agent/agent-harness.md](./agent/agent-harness.md)：智能体架子——参考与约束的不对称，写入闸门、检查材料与治理成本。
 - [language/context.md](./language/context.md)：语境——词为什么站错位置。
+- [life/pressure.md](./life/pressure.md)：压力的应对——从觉察、记录、对话到整合。
