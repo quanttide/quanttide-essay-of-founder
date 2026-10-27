@@ -21,6 +21,7 @@ project:
     - title: 元
       children:
         - file: meta/human-ai-collaboration.md
+        - file: meta/category-shifts.md
     - title: 智能体
       children:
         - file: agent/agent-harness.md
