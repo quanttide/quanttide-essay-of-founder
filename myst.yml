@@ -22,6 +22,7 @@ project:
       children:
         - file: meta/human-ai-collaboration.md
         - file: meta/category-shifts.md
+        - file: meta/two-views.md
     - title: 智能体
       children:
         - file: agent/agent-harness.md

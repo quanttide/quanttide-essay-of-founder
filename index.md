@@ -12,5 +12,6 @@
 - [work/artifact-contract.md](./work/artifact-contract.md)：产物契约——把合格线写成能判的约束。
 - [meta/human-ai-collaboration.md](./meta/human-ai-collaboration.md)：人机协作——从生产转向治理。
 - [meta/category-shifts.md](./meta/category-shifts.md)：范畴的三次换题——从谓述种类到对象由关系决定。
+- [meta/two-views.md](./meta/two-views.md)：同一组模型，两种读法——本体论与范畴论的分工。
 - [agent/agent-harness.md](./agent/agent-harness.md)：智能体架子——参考与约束的不对称，写入闸门、检查材料与治理成本。
 - [language/context.md](./language/context.md)：语境——词为什么站错位置。
