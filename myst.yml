@@ -32,6 +32,9 @@ project:
     - title: 生活
       children:
         - file: life/pressure.md
+    - title: 设计
+      children:
+        - file: design/design-os.md
 site:
   template: book-theme
   options:

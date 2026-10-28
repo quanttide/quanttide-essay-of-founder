@@ -16,3 +16,4 @@
 - [agent/agent-harness.md](./agent/agent-harness.md)：智能体架子——参考与约束的不对称，写入闸门、检查材料与治理成本。
 - [language/context.md](./language/context.md)：语境——词为什么站错位置。
 - [life/pressure.md](./life/pressure.md)：压力的应对——从觉察、记录、对话到整合。
+- [design/design-os.md](./design/design-os.md)：设计操作系统——模型在约束的中间层里做选择，代码用硬规则做校验。
