@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### 新增
+
+- `default/AI 生图与人机交互.md`：以生图能力承载情境的人机交互探讨，自 `data/context` 按资产契约迁入，正文未改
+
 ### 变更
 
 - `meta/human-ai-collaboration.md` 迁到 `agent/`，与智能体主题同处；正文清掉禁用词、拆分长句，补上「法理层」一句
