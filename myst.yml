@@ -32,6 +32,9 @@ project:
     - title: 生活
       children:
         - file: life/pressure.md
+    - title: 执行
+      children:
+        - file: execute/index.md
     - title: 设计
       children:
         - file: design/design-os.md
