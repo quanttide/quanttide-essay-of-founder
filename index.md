@@ -18,3 +18,4 @@
 - [life/pressure.md](./life/pressure.md)：压力的应对——从觉察、记录、对话到整合。
 - [execute/](./execute/)：执行管理框架的推导——两层循环、OODA 与 PDCA 的分工，以及「决策确立目标而非服从目标」的因果读法。
 - [design/design-os.md](./design/design-os.md)：设计操作系统——模型在约束的中间层里做选择，代码用硬规则做校验。
+- [create/ai-image-to-frame.md](./create/ai-image-to-frame.md)：用 AI 生图逼近脑中那一帧——想透再让画面去追的六步流程与六条经验。

@@ -12,6 +12,7 @@
 
 ### 新增
 
+- `create/ai-image-to-frame.md`：用 AI 生图逼近脑中那一帧——先立骨架再贴肉的六步流程与六条经验，署名量潮创始人、状态定稿；`create/` 为新增集，README、index 与 `myst.yml` 目录同步
 - `default/AI 生图与人机交互.md`：以生图能力承载情境的人机交互探讨，自 `data/context` 按资产契约迁入，正文未改
 
 ### 变更
