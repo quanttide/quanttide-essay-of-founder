@@ -40,7 +40,6 @@ project:
         - file: design/design-os.md
     - title: 创作
       children:
-        - file: create/ai-image-to-frame.md
 site:
   template: book-theme
   options:
